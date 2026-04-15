@@ -77,6 +77,8 @@ The system allows multiple infusion pumps to be stacked and controlled using a s
 
 # System Architecture
 
+![Smart Infusion Pump Architecture](docs/Images/System_Architecture.png)
+
 The system consists of two major components:
 
 ## 1. Smart Infusion Pump Unit
