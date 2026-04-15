@@ -39,7 +39,9 @@ The Smart Infusion Pump introduces:
 * Modular architecture for scalability
 
 The system allows multiple infusion pumps to be stacked and controlled using a single Smart Monitor, improving workflow efficiency and usability.
+## Block Diagram
 
+![Smart Infusion Pump Block Diagram](Docs/Images/block-diagram.png)
 ---
 
 # Key Features
