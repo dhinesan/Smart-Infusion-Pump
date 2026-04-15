@@ -41,7 +41,7 @@ The Smart Infusion Pump introduces:
 The system allows multiple infusion pumps to be stacked and controlled using a single Smart Monitor, improving workflow efficiency and usability.
 ## Block Diagram
 
-![Smart Infusion Pump Block Diagram](Docs/Images/block-diagram.png)
+![Smart Infusion Pump Block Diagram](docs/Images/Block Diagram.png)
 ---
 
 # Key Features
